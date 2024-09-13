@@ -221,7 +221,7 @@ const ProjectList = () => {
                 ) : (
                   <TableRow>
                     <TableCell colSpan={7} sx={{ textAlign: "center" }}>
-                      No data available in table
+                      {/* No data available in table */}
                     </TableCell>
                   </TableRow>
                 )}
